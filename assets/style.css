@@ -32,3 +32,17 @@ body {
     text-align: center;
 }
 
+h1 {
+    font-size: 2rem;
+    margin: 0.5rem 0;
+}
+
+.recipe-image {
+    margin: 1rem;
+}
+
+.recipe-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5%;
+}
